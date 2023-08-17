@@ -1,2 +1,1 @@
-# Prep-Course-Henry2
-Este es un repositorio de prueba del reinicio del curso de Henry
+Este proyecto es una prueba de como crear un repositorio remoto y clonarlo desde mi dispositivo local 
